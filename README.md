@@ -1,9 +1,20 @@
 # Nebula-Sentience-Network
 The Nebula Sentience Network aims to revolutionize intelligence by implementing decentralized learning, fostering global collaboration to address critical issues, and prioritizing energy efficiency and sustainability in computational processes. 
 
+# Contents 
+
+- [Description](#description)
+- [Vision And Mission](#vision-and-mission)
+- [Technologies](#technologies)
+- [Challenges](#challenges)
+- [Contributor Guide](#contributor-guide)
+- [Tutorials](#tutorials)
+- [Roadmap](#roadmap)
+- [Aknowledgement](aknowledgement.md) 
+
 # Description 
 
-**Nebula Sentience Network **
+**Nebula Sentience Network**
 
 *Overview:*
 The Nebula Sentience Network heralds a new era in artificial intelligence, driven by a vision to advance decentralized learning, global collaboration, and sustainable computing. This ambitious project seeks to redefine the landscape of intelligence by weaving together cutting-edge technologies and ethical principles.
