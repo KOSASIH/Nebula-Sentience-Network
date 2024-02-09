@@ -111,3 +111,94 @@ The Nebula Sentience Network is dedicated to addressing a myriad of global chall
 
 By tackling these challenges, Nebula Sentience Network strives to harness the power of AI for the betterment of humanity and the planet, fostering a future where intelligent systems actively contribute to overcoming pressing global issues.
 
+# Contributor Guide 
+
+# Nebula Sentience Network Git Repository Contributor Guide
+
+Welcome to the Nebula Sentience Network! We appreciate your interest in contributing to our Git repository. This guide will help you navigate the process of becoming a contributor.
+
+## Getting Started
+
+1. **Fork the Repository:**
+   Fork the Nebula Sentience Network repository to your GitHub account. This creates a copy of the repository that you can freely modify.
+
+2. **Clone the Repository:**
+   Clone the forked repository to your local machine using the `git clone` command. This allows you to make changes locally and sync them with your GitHub repository.
+
+```bash
+git clone https://github.com/KOSASIH/nebula-sentience.git
+cd nebula-sentience
+```
+
+3. **Create a Branch:**
+   Create a new branch for your contributions. Choose a descriptive branch name related to the feature or bug you are working on.
+
+```bash
+git checkout -b feature-or-fix-branch
+```
+
+## Making Changes
+
+1. **Code Away:**
+   Make your desired changes to the codebase. Ensure that your code adheres to the project's coding standards and guidelines.
+
+2. **Commit Changes:**
+   Commit your changes with clear and concise commit messages. Follow best practices for writing meaningful commit messages.
+
+```bash
+git add .
+git commit -m "Brief description of changes"
+```
+
+3. **Push Changes:**
+   Push your changes to your GitHub repository.
+
+```bash
+git push origin feature-or-fix-branch
+```
+
+## Creating a Pull Request (PR)
+
+1. **Open a Pull Request:**
+   Navigate to your GitHub repository and open a pull request. Clearly describe the changes you've made, providing context for reviewers.
+
+2. **PR Template:**
+   Complete the provided pull request template with relevant details about your changes, including testing steps if applicable.
+
+3. **Code Review:**
+   Collaborate with other contributors through code review. Address feedback and make necessary adjustments to your code.
+
+4. **Approval and Merge:**
+   Once your changes are approved, a maintainer will merge your pull request into the main repository.
+
+## Updating Your Fork
+
+If the main repository has been updated since you forked it, you should synchronize your fork.
+
+1. **Add Upstream Remote:**
+   Add the main repository as an upstream remote.
+
+```bash
+git remote add upstream https://github.com/nebula-sentience/nebula-sentience.git
+```
+
+2. **Fetch and Merge Changes:**
+   Fetch the changes from the upstream repository and merge them into your local repository.
+
+```bash
+git fetch upstream
+git merge upstream/main
+```
+
+3. **Push Changes to Your Fork:**
+   Push the updated code to your GitHub repository.
+
+```bash
+git push origin main
+```
+
+## Code of Conduct
+
+Please adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) throughout your contributions. Respectful and inclusive behavior is crucial to maintaining a positive and collaborative community.
+
+Thank you for contributing to the Nebula Sentience Network! Your efforts play a vital role in shaping the future of decentralized and sustainable artificial intelligence.
