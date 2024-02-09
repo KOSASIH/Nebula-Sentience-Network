@@ -3,7 +3,7 @@ The Nebula Sentience Network aims to revolutionize intelligence by implementing 
 
 # Description 
 
-**Nebula Sentience Network AI Agent Project**
+**Nebula Sentience Network **
 
 *Overview:*
 The Nebula Sentience Network heralds a new era in artificial intelligence, driven by a vision to advance decentralized learning, global collaboration, and sustainable computing. This ambitious project seeks to redefine the landscape of intelligence by weaving together cutting-edge technologies and ethical principles.
