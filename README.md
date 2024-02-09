@@ -210,6 +210,6 @@ git push origin main
 
 ## Code of Conduct
 
-Please adhere to our [Code of Conduct](CODE-OF-CONDUCT.md) throughout your contributions. Respectful and inclusive behavior is crucial to maintaining a positive and collaborative community.
+Please adhere to our Code of Conduct throughout your contributions. Respectful and inclusive behavior is crucial to maintaining a positive and collaborative community.
 
 Thank you for contributing to the Nebula Sentience Network! Your efforts play a vital role in shaping the future of decentralized and sustainable artificial intelligence.
